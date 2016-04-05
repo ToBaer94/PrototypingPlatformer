@@ -1,0 +1,4 @@
+
+
+class FlyingComponent(object):
+    pass
